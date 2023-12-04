@@ -1,0 +1,14 @@
+C:\Users\david\OneDrive\source\repos\C# projects\BTEC_UCAS_Points_Calculator\bin\Debug\net7.0\BTEC_UCAS_Points_Calculator.exe
+C:\Users\david\OneDrive\source\repos\C# projects\BTEC_UCAS_Points_Calculator\bin\Debug\net7.0\BTEC_UCAS_Points_Calculator.deps.json
+C:\Users\david\OneDrive\source\repos\C# projects\BTEC_UCAS_Points_Calculator\bin\Debug\net7.0\BTEC_UCAS_Points_Calculator.runtimeconfig.json
+C:\Users\david\OneDrive\source\repos\C# projects\BTEC_UCAS_Points_Calculator\bin\Debug\net7.0\BTEC_UCAS_Points_Calculator.dll
+C:\Users\david\OneDrive\source\repos\C# projects\BTEC_UCAS_Points_Calculator\bin\Debug\net7.0\BTEC_UCAS_Points_Calculator.pdb
+C:\Users\david\OneDrive\source\repos\C# projects\BTEC_UCAS_Points_Calculator\obj\Debug\net7.0\BTEC_UCAS_Points_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\source\repos\C# projects\BTEC_UCAS_Points_Calculator\obj\Debug\net7.0\BTEC_UCAS_Points_Calculator.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\source\repos\C# projects\BTEC_UCAS_Points_Calculator\obj\Debug\net7.0\BTEC_UCAS_Points_Calculator.AssemblyInfo.cs
+C:\Users\david\OneDrive\source\repos\C# projects\BTEC_UCAS_Points_Calculator\obj\Debug\net7.0\BTEC_UCAS_Points_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\source\repos\C# projects\BTEC_UCAS_Points_Calculator\obj\Debug\net7.0\BTEC_UCAS_Points_Calculator.dll
+C:\Users\david\OneDrive\source\repos\C# projects\BTEC_UCAS_Points_Calculator\obj\Debug\net7.0\refint\BTEC_UCAS_Points_Calculator.dll
+C:\Users\david\OneDrive\source\repos\C# projects\BTEC_UCAS_Points_Calculator\obj\Debug\net7.0\BTEC_UCAS_Points_Calculator.pdb
+C:\Users\david\OneDrive\source\repos\C# projects\BTEC_UCAS_Points_Calculator\obj\Debug\net7.0\BTEC_UCAS_Points_Calculator.genruntimeconfig.cache
+C:\Users\david\OneDrive\source\repos\C# projects\BTEC_UCAS_Points_Calculator\obj\Debug\net7.0\ref\BTEC_UCAS_Points_Calculator.dll
