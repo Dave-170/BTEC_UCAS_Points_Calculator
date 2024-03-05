@@ -67,8 +67,8 @@ class UcasCalculator
     }
 }
 
-
-// cd C:\Users\david\OneDrive\source\repos\C# projects\BTEC_UCAS_Points_Calculator
+// reminder
+// cd into project location on Windows
 // code .
 
 // dotnet new console 
